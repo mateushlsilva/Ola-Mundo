@@ -16,5 +16,10 @@ main{
 }
 
 h1{
-    font-size: 16em;
+    font-size: 30px;
+    color: rgb(48, 4, 90);
+}
+
+img.lado{
+    float: right;
 }
